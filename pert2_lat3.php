@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="latihan3_pert2_calculator.php" method="get">
+    <form action="pert2_lat3.php" method="get">
     
     <input type="text" name="num1" placeholder="nomer 1">
     <input type="text" name="num2" placeholder="nomer 2">
