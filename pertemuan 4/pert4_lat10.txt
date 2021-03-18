@@ -1,0 +1,18 @@
+Difference between break and continue:
+
+    The break statement terminates the whole iteration of a loop whereas continue skips the current iteration.
+    The break statement terminates the whole loop early whereas the continue brings the next iteration early.
+    In a loop for switch, break acts as terminator for case only whereas continue 2 acts as terminator for case and skips the current iteration of loop.
+
+
+translasi
+
+break mengehntikan seluruh iterasi pada loop sedangkan continue itu skip atau melompotai iterasi yang sedang berlangsungan
+
+break menghentikan seluruh loop lebih cepat sedangkan continue membuat iterasi selanjutnya lebih cepat.
+
+dalam loop for(saya gak paham ini for untuk atau for loop) switch, break berperan sebagai pemberhenti atau terminator 
+dan continue juga berperan sebagai pemberhenti untuk case dan melewati iterasi loop yang sedang berjalan sekarang.
+
+
+maaf pak kemarin tidak banyak menggunakan SS apalagi yang pertemuan 2 latihan terakhir 
