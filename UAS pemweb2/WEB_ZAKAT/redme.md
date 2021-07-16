@@ -110,6 +110,8 @@ digunakan untuk mencetak table menjadi dokumen sehingga berguna untuk membuat la
 ___
 # KESIMPULAN
 
-aplikasi ini sangat rawan bila diupload ke tempat hosting karena berbahaya aplikasi ini tidak secure hanya untuk nilai UAS Pemrograman Web 2. bisa diakses hanya dengan mengganti link. mohon tidak menyentuh apapun yang ada pada table jika memiliki kepentingan untuk meretas. Terima kasih. untuk irfan dan pak <b>Sonasa
+aplikasi ini sangat rawan bila diupload ke tempat hosting karena memiliki credential penting jadi berbahaya. aplikasi ini tidak secure hanya untuk nilai UAS Pemrograman Web 2. bisa diakses hanya dengan mengganti link. mohon tidak menyentuh apapun yang ada pada table jika memiliki kepentingan untuk meretas. Terima kasih. untuk irfan dan pak <b>Sonasa
 Rinusantoro</b> selaku dosen pembimbing mata kuliah pemrograman web. 
 bismilah Konsultan IT h3h3 boiyeh.
+
+![h3h3](https://preview.redd.it/pa79yadkfl831.png?width=640&crop=smart&auto=webp&s=c3596e922941a81f76aeb4a076a63e185411fa6e)
